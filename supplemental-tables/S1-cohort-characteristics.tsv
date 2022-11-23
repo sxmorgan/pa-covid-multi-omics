@@ -1,4 +1,4 @@
-PatientID	Age	Sex	BMI	Smoker	Worst_OSCI	OSCI_Class	Diabetes	Renal	Liver	Thyroid	IBD	Hypertension	Coronary	Dyslipidemia	Arrythmia	Neoplasia	Lung	Comorbidity	Immunosuppressives	Metformin	Corticosteroids	Statins	Antiaggregants	Antihypertensives	BBlockers	Uricostatics	Supplements	Diuretics	Medication	Antivirals	Abx3Mo	AbxSamp	GISymptoms	DaysHospitalized	Death	VAP	Pneumonia	Sepsis	Bacteremia	UTI	Infection	AbxHosp
+PatientID	Age	Sex	BMI	Smoker	Worst_OSCI	OSCI_Class	Diabetes	Renal	Liver	Thyroid	IBD	Hypertension	Coronary	Dyslipidemia	Arrythmia	Neoplasia	Lung	Comorbidity	Immunosuppressives	Metformin	Corticosteroids	Statins	Antiaggregants	Antihypertensives	BBlockers	Uricostatics	Supplements	Diuretics	Medication	Antivirals	Abx3Mo	AbxSamp	GISymptoms	DaysHospitalized	Death	VAP	HAP	Sepsis	Bacteremia	UTI	Infection	AbxHosp
 P01	37	F	41.52	1	4	Mild	0	1	1	1	0	0	0	0	0	0	1	4	0	0	0	0	0	0	1	0	1	1	3	0	1	1	0	6	0	0	0	0	0	0	1	1
 P02	41	M	22.5	0	4	Mild	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NA	0	0	5	0	0	0	0	0	0	0	NA
 P03	88	M	25.95	0	8	Severe	0	1	0	0	0	1	1	0	1	1	1	9	0	0	0	0	1	1	1	0	0	1	4	0	NA	0	0	NA	1	0	1	0	0	0	1	NA
