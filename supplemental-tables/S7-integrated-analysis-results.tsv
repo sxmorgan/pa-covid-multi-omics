@@ -1,0 +1,208 @@
+Y_space	Y_dep.var	X_ind.var	X_space	XY_eff.size	XY_p.adj	AssocStatus
+Gut microbiome	Akkermansia	Choline	Plasma metabolome	-0.369	4.63e-02	D
+Gut microbiome	Akkermansia	PC ae C34:2	Plasma metabolome	0.36	7.27e-03	D
+Gut microbiome	Akkermansia	PC ae C34:3	Plasma metabolome	0.317	1.42e-02	D
+Gut microbiome	Akkermansia	SM (OH) C22:2	Plasma metabolome	0.34	1.12e-02	D
+Gut microbiome	Alistipes	Tryptamine	Plasma metabolome	-0.422	2.46e-03	D
+Gut microbiome	Anaerostipes	Tryptophan	Plasma metabolome	0.613	1.42e-07	D
+Gut microbiome	Anaerotruncus	Phenylalanine	Plasma metabolome	0.308	3.96e-02	D
+Gut microbiome	Anaerotruncus	Symmetric dimethylarginine	Plasma metabolome	0.376	7.47e-03	D
+Gut microbiome	Azospirillum	DG(16:0_18:1)	Plasma metabolome	-0.393	2.57e-02	D
+Gut microbiome	Azospirillum	DG(18:1_18:1)	Plasma metabolome	-0.514	2.28e-04	D
+Gut microbiome	Azospirillum	PC aa C34:1	Plasma metabolome	-0.302	7.00e-02	D
+Gut microbiome	Bacteria	Glycine	Plasma metabolome	0.453	6.99e-03	D
+Gut microbiome	Bacteroidales	Histidine	Plasma metabolome	0.296	3.48e-02	D
+Gut microbiome	Bacteroidales	SM (OH) C14:1	Plasma metabolome	0.384	5.16e-03	D
+Gut microbiome	Bacteroides	3-Hydroxykynurenine	Plasma metabolome	0.426	7.50e-04	D
+Gut microbiome	Barnesiella	Alanine	Plasma metabolome	0.332	1.70e-02	D
+Gut microbiome	Barnesiella	Proline	Plasma metabolome	0.305	6.00e-02	D
+Gut microbiome	Blautia	lysoPC a C17:0	Plasma metabolome	0.366	5.02e-03	D
+Gut microbiome	Blautia	Tryptamine	Plasma metabolome	0.377	8.84e-03	D
+Gut microbiome	Butyricicoccus	Alanine	Plasma metabolome	0.471	2.10e-04	D
+Gut microbiome	Butyricicoccus	SM C24:1	Plasma metabolome	-0.421	1.68e-02	D
+Gut microbiome	Butyricicoccus	Tryptophan	Plasma metabolome	0.524	1.11e-05	D
+Gut microbiome	Clostridia	PC aa C34:2	Plasma metabolome	-0.413	2.30e-02	D
+Gut microbiome	Clostridia	PC aa C36:1	Plasma metabolome	-0.298	8.24e-02	D
+Gut microbiome	Clostridia	PC aa C36:2	Plasma metabolome	-0.43	1.14e-02	D
+Gut microbiome	Clostridiaceae	Indole-3-propionic acid	Plasma metabolome	0.301	2.56e-02	D
+Gut microbiome	Clostridium	Glutamine	Plasma metabolome	-0.36	5.18e-02	D
+Gut microbiome	Collinsella	Indole-3-propionic acid	Plasma metabolome	0.349	7.50e-03	D
+Gut microbiome	Collinsella	Serine	Plasma metabolome	0.263	5.94e-02	D
+Gut microbiome	Dialister	Choline	Plasma metabolome	-0.463	2.80e-03	D
+Gut microbiome	Dorea	Cer(d18:1/16:0)	Plasma metabolome	-0.322	3.58e-02	D
+Gut microbiome	Dorea	Kynurenic acid	Plasma metabolome	-0.497	1.67e-04	D
+Gut microbiome	Dorea	Symmetric dimethylarginine	Plasma metabolome	-0.522	1.44e-04	D
+Gut microbiome	Dorea	1-Methylhistidine	Plasma metabolome	-0.539	6.57e-05	D
+Gut microbiome	Eggerthella	1-Methylhistidine	Plasma metabolome	0.297	9.18e-02	D
+Gut microbiome	Eggerthellaceae	Asparagine	Plasma metabolome	0.367	1.75e-02	D
+Gut microbiome	Eisenbergiella	Propionylcarnitine	Plasma metabolome	0.366	8.00e-03	D
+Gut microbiome	Eisenbergiella	Tryptamine	Plasma metabolome	-0.504	1.71e-04	D
+Gut microbiome	Enterococcus	PC aa C34:1	Plasma metabolome	0.342	4.60e-02	D
+Gut microbiome	Enterococcus	SM C24:1	Plasma metabolome	0.339	7.64e-02	D
+Gut microbiome	Escherichia	Arginine	Plasma metabolome	-0.387	2.38e-02	D
+Gut microbiome	Eubacterium	Homoarginine	Plasma metabolome	0.445	3.78e-03	D
+Gut microbiome	Eubacterium	Tryptophan	Plasma metabolome	0.664	2.59e-09	D
+Gut microbiome	Faecalibacterium	Tryptophan	Plasma metabolome	0.706	8.14e-11	D
+Gut microbiome	Fusicatenibacter	PC ae C36:5	Plasma metabolome	0.334	1.98e-02	D
+Gut microbiome	Fusicatenibacter	SM (OH) C22:1	Plasma metabolome	0.334	1.27e-02	D
+Gut microbiome	Fusicatenibacter	SM (OH) C22:2	Plasma metabolome	0.403	1.79e-03	D
+Gut microbiome	Hungatella	3-Hydroxykynurenine	Plasma metabolome	0.569	3.63e-06	D
+Gut microbiome	Lachnospiraceae	lysoPC a C18:2	Plasma metabolome	0.537	7.07e-06	D
+Gut microbiome	Lactobacillus	Asparagine	Plasma metabolome	-0.291	7.03e-02	D
+Gut microbiome	Methanobrevibacter	SM C24:1	Plasma metabolome	0.339	7.64e-02	D
+Gut microbiome	Methanobrevibacter	Tryptamine	Plasma metabolome	-0.357	1.41e-02	D
+Gut microbiome	Odoribacter	SM (OH) C16:1	Plasma metabolome	0.304	5.22e-02	D
+Gut microbiome	Oscillibacter	SM (OH) C14:1	Plasma metabolome	0.494	3.14e-04	D
+Gut microbiome	Parabacteroides	SM C16:1	Plasma metabolome	0.474	8.46e-04	D
+Gut microbiome	Parabacteroides	SM C18:1	Plasma metabolome	0.463	1.41e-03	D
+Gut microbiome	Prevotella	Choline	Plasma metabolome	-0.332	5.27e-02	D
+Gut microbiome	Roseburia	Symmetric dimethylarginine	Plasma metabolome	-0.404	5.82e-03	D
+Gut microbiome	Roseburia	1-Methylhistidine	Plasma metabolome	-0.357	3.69e-02	D
+Gut microbiome	Ruminococcaceae	DG(18:2_18:2)	Plasma metabolome	-0.321	2.09e-02	D
+Gut microbiome	Ruminococcaceae	lysoPC a C16:1	Plasma metabolome	0.369	7.21e-03	D
+Gut microbiome	Ruminococcaceae	lysoPC a C18:1	Plasma metabolome	0.348	1.07e-02	D
+Gut microbiome	Ruminococcaceae	lysoPC a C20:4	Plasma metabolome	0.379	8.98e-03	D
+Gut microbiome	Ruminococcaceae	TG(18:2_36:5)	Plasma metabolome	-0.447	2.78e-03	D
+Gut microbiome	Ruminococcus	Indole-3-carboxaldehyde	Plasma metabolome	0.277	8.82e-02	D
+Gut microbiome	Ruminococcus	lysoPC a C16:0	Plasma metabolome	0.511	8.73e-05	D
+Gut microbiome	Ruminococcus	lysoPC a C16:1	Plasma metabolome	0.556	9.88e-06	D
+Gut microbiome	Ruminococcus	lysoPC a C17:0	Plasma metabolome	0.508	8.69e-05	D
+Gut microbiome	Ruminococcus	lysoPC a C18:0	Plasma metabolome	0.496	2.86e-04	D
+Gut microbiome	Ruminococcus	lysoPC a C18:1	Plasma metabolome	0.508	8.19e-05	D
+Gut microbiome	Ruminococcus	lysoPC a C18:2	Plasma metabolome	0.471	1.29e-04	D
+Gut microbiome	Ruminococcus	lysoPC a C20:3	Plasma metabolome	0.412	3.34e-03	D
+Gut microbiome	Ruthenibacterium	Carnitine	Plasma metabolome	0.328	5.27e-02	D
+Gut microbiome	Ruthenibacterium	Propionylcarnitine	Plasma metabolome	0.309	2.72e-02	D
+Gut microbiome	Streptococcus	Citric acid	Plasma metabolome	-0.387	2.18e-02	D
+Gut microbiome	Streptococcus	PC aa C34:1	Plasma metabolome	-0.357	4.28e-02	D
+Gut microbiome	Streptococcus	PC aa C36:1	Plasma metabolome	-0.349	3.79e-02	D
+Gut microbiome	Streptococcus	PC aa C36:3	Plasma metabolome	-0.357	8.51e-02	D
+Gut microbiome	Streptococcus	PC ae C36:3	Plasma metabolome	-0.317	2.40e-02	D
+Gut microbiome	Streptococcus	5-Hydroxy-L-tryptophan	Plasma metabolome	-0.393	2.88e-02	D
+Gut microbiome	Sutterella	Symmetric dimethylarginine	Plasma metabolome	-0.311	3.38e-02	D
+Plasma metabolome	Alanine	Eubacterium	Gut microbiome	0.551	1.01e-05	D
+Plasma metabolome	L-Alanine	Lachnospiraceae	Gut microbiome	0.3	3.59e-02	D
+Plasma metabolome	Asparagine	Eubacterium	Gut microbiome	0.472	2.74e-04	D
+Plasma metabolome	Asparagine	Faecalibacterium	Gut microbiome	0.453	3.27e-04	D
+Plasma metabolome	ß-Alanine	Firmicutes	Gut microbiome	0.331	2.43e-02	D
+Plasma metabolome	Choline	Bacteroides	Gut microbiome	0.368	4.87e-02	D
+Plasma metabolome	DG(16:0_18:1)	Richness	Gut microbiome	-0.305	3.06e-02	D
+Plasma metabolome	DG(18:1_18:1)	Richness	Gut microbiome	-0.41	2.23e-03	D
+Plasma metabolome	Eicosadienoic acid	Oscillibacter	Gut microbiome	-0.331	2.74e-02	D
+Plasma metabolome	Formylkynurenine 	Roseburia	Gut microbiome	0.323	1.90e-02	D
+Plasma metabolome	Glycodeoxycholic acid	Richness	Gut microbiome	0.292	7.71e-02	D
+Plasma metabolome	Glycodeoxycholic acid	Eubacterium	Gut microbiome	0.491	1.06e-03	D
+Plasma metabolome	Glycodeoxycholic acid	Ruminococcaceae	Gut microbiome	0.507	1.71e-03	D
+Plasma metabolome	Glutamic acid	Eubacterium	Gut microbiome	0.486	1.61e-04	D
+Plasma metabolome	Glutamine	Richness	Gut microbiome	-0.264	6.35e-02	D
+Plasma metabolome	HexCer(d18:1/24:1)	Alistipes	Gut microbiome	0.3	5.51e-02	D
+Plasma metabolome	Histidine	Faecalibacterium	Gut microbiome	0.665	3.06e-09	D
+Plasma metabolome	Hypoxanthine	Ruminococcus	Gut microbiome	-0.369	3.06e-02	D
+Plasma metabolome	Indole-3-carboxaldehyde	Roseburia	Gut microbiome	0.503	1.16e-04	D
+Plasma metabolome	Kynurenic acid	Clostridiales	Gut microbiome	-0.458	4.23e-04	D
+Plasma metabolome	Kynurenine	Clostridiales	Gut microbiome	-0.519	3.48e-05	D
+Plasma metabolome	lysoPC a C17:0	Firmicutes	Gut microbiome	-0.357	1.35e-02	D
+Plasma metabolome	Methionine	Blautia	Gut microbiome	0.342	2.46e-02	D
+Plasma metabolome	PC aa C32:1	Bacteroides	Gut microbiome	0.37	4.87e-02	D
+Plasma metabolome	PC aa C34:2	Lachnospiraceae	Gut microbiome	0.249	7.86e-02	D
+Plasma metabolome	PC aa C36:4	Collinsella	Gut microbiome	0.391	6.04e-02	D
+Plasma metabolome	PC aa C36:5	Collinsella	Gut microbiome	0.31	6.94e-02	D
+Plasma metabolome	PC aa C38:0	InvSimp	Gut microbiome	0.257	6.20e-02	D
+Plasma metabolome	PC aa C38:0	Faecalibacterium	Gut microbiome	0.266	4.71e-02	D
+Plasma metabolome	PC aa C38:6	Collinsella	Gut microbiome	0.315	6.94e-02	D
+Plasma metabolome	PC ae C34:0	Ruminococcus	Gut microbiome	0.305	3.14e-02	D
+Plasma metabolome	PC ae C34:2	Akkermansia	Gut microbiome	0.384	6.25e-02	D
+Plasma metabolome	PC ae C36:4	Ruminococcus	Gut microbiome	0.526	3.86e-05	D
+Plasma metabolome	PC ae C38:5	Collinsella	Gut microbiome	0.335	6.04e-02	D
+Plasma metabolome	PC ae C38:5	Faecalibacterium	Gut microbiome	0.394	2.10e-03	D
+Plasma metabolome	PC ae C40:2	Shannon	Gut microbiome	0.398	1.98e-03	D
+Plasma metabolome	PC ae C40:2	InvSimp	Gut microbiome	0.395	2.51e-03	D
+Plasma metabolome	PC ae C40:3	Faecalibacterium	Gut microbiome	0.4	1.78e-03	D
+Plasma metabolome	PC ae C40:4	Faecalibacterium	Gut microbiome	0.438	5.47e-04	D
+Plasma metabolome	PC ae C40:5	Faecalibacterium	Gut microbiome	0.408	1.45e-03	D
+Plasma metabolome	PC ae C42:4	Alistipes	Gut microbiome	0.33	3.04e-02	D
+Plasma metabolome	PC ae C42:4	Faecalibacterium	Gut microbiome	0.269	4.49e-02	D
+Plasma metabolome	PC ae C44:4	InvSimp	Gut microbiome	0.322	1.60e-02	D
+Plasma metabolome	PC ae C44:4	Faecalibacterium	Gut microbiome	0.29	3.18e-02	D
+Plasma metabolome	PC ae C44:5	Alistipes	Gut microbiome	0.289	6.58e-02	D
+Plasma metabolome	D-(−)-Ribose	Clostridiales	Gut microbiome	-0.294	5.74e-02	D
+Plasma metabolome	D-(−)-Ribose	Eubacterium	Gut microbiome	-0.307	5.57e-02	D
+Plasma metabolome	Sarcosine	Eubacterium	Gut microbiome	0.248	8.09e-02	D
+Plasma metabolome	Sarcosine	Faecalibacterium	Gut microbiome	0.24	7.94e-02	D
+Plasma metabolome	SM (OH) C14:1	Akkermansia	Gut microbiome	0.362	7.83e-02	D
+Plasma metabolome	SM (OH) C16:1	Ruminococcus	Gut microbiome	0.411	2.27e-03	D
+Plasma metabolome	SM (OH) C22:1	Faecalibacterium	Gut microbiome	0.718	7.95e-11	D
+Plasma metabolome	SM (OH) C22:2	Faecalibacterium	Gut microbiome	0.665	3.06e-09	D
+Plasma metabolome	SM (OH) C24:1	Faecalibacterium	Gut microbiome	0.419	1.02e-03	D
+Plasma metabolome	SM C16:1	Ruminococcus	Gut microbiome	0.282	4.84e-02	D
+Plasma metabolome	SM C24:1	Firmicutes	Gut microbiome	0.392	5.83e-03	D
+Plasma metabolome	Taurodeoxycholic acid	Eubacterium	Gut microbiome	0.304	7.01e-02	D
+Plasma metabolome	Taurodeoxycholic acid	Ruminococcaceae	Gut microbiome	0.391	2.29e-02	D
+Plasma metabolome	Threonine	Clostridiales	Gut microbiome	0.321	1.64e-02	D
+Plasma metabolome	Threonine	Faecalibacterium	Gut microbiome	0.286	3.29e-02	D
+Plasma metabolome	Tryptophan	Faecalibacterium	Gut microbiome	0.725	7.18e-11	D
+Plasma metabolome	Tryptamine	Faecalibacterium	Gut microbiome	0.529	1.57e-05	D
+Plasma metabolome	Tryptophan	Faecalibacterium	Gut microbiome	0.702	1.56e-10	D
+Plasma metabolome	L-Valine	Lachnospiraceae	Gut microbiome	0.289	4.24e-02	D
+Plasma metabolome	5-Hydroxy-L-tryptophan	Clostridiales	Gut microbiome	0.424	8.84e-04	D
+Plasma metabolome	5-Hydroxy-L-tryptophan	Faecalibacterium	Gut microbiome	0.386	2.47e-03	D
+Host Immune Response	IFNa	Glycine	Plasma metabolome	-0.345	3.99e-03	D
+Host Immune Response	IFNa	PC ae C34:3	Plasma metabolome	-0.32	3.41e-03	D
+Host Immune Response	IFNa	PC ae C36:5	Plasma metabolome	-0.312	4.40e-03	D
+Host Immune Response	IFNg	Kynurenine	Plasma metabolome	0.521	3.96e-07	D
+Host Immune Response	IFNg	Kynurenine	Plasma metabolome	0.559	2.55e-08	D
+Host Immune Response	IFNg	lysoPC a C16:0	Plasma metabolome	-0.466	8.13e-06	D
+Host Immune Response	IFNg	lysoPC a C18:0	Plasma metabolome	-0.502	1.23e-06	D
+Host Immune Response	IFNg	lysoPC a C18:1	Plasma metabolome	-0.482	3.40e-06	D
+Host Immune Response	IFNg	PC ae C42:4	Plasma metabolome	-0.457	3.89e-05	D
+Host Immune Response	IFNg	Phenylalanine	Plasma metabolome	0.569	6.78e-08	D
+Host Immune Response	IFNg	5-Hydroxy-L-tryptophan	Plasma metabolome	-0.497	2.08e-06	D
+Host Immune Response	IFNL2_GAPDH	Clostridiales	Gut microbiome	-0.265	5.70e-02	D
+Host Immune Response	IFNL2_GAPDH	Oscillibacter	Gut microbiome	-0.349	9.31e-03	D
+Host Immune Response	IFNß_GAPDH	Glutamic acid	Plasma metabolome	-0.269	6.08e-02	D
+Host Immune Response	IL10	lysoPC a C16:0	Plasma metabolome	-0.683	6.01e-13	D
+Host Immune Response	IL10	Phenylalanine	Plasma metabolome	0.525	4.99e-07	D
+Host Immune Response	IP10	Kynurenine	Plasma metabolome	0.764	4.54e-17	D
+Host Immune Response	IP10	Kynurenine	Plasma metabolome	0.788	8.45e-19	D
+Host Immune Response	IP10	lysoPC a C16:0	Plasma metabolome	-0.763	5.95e-17	D
+Host Immune Response	IP10	3-Hydroxykynurenine	Plasma metabolome	0.769	2.21e-17	D
+Host Immune Response	MCP1	Clostridiales	Gut microbiome	-0.608	3.96e-08	D
+Host Immune Response	MCP1	Kynurenine	Plasma metabolome	0.629	1.82e-10	D
+Host Immune Response	MCP1	Kynurenine	Plasma metabolome	0.663	6.37e-12	D
+Host Immune Response	TNFa	Clostridiales	Gut microbiome	-0.673	6.97e-10	D
+Host Immune Response	TNFa	Homoarginine	Plasma metabolome	-0.698	2.36e-12	D
+Host Immune Response	TNFa	Kynurenine	Plasma metabolome	0.758	6.06e-17	D
+Host Immune Response	TNFa	lysoPC a C16:0	Plasma metabolome	-0.712	2.46e-14	D
+Host Immune Response	TNFa	lysoPC a C17:0	Plasma metabolome	-0.691	3.05e-13	D
+Host Immune Response	TNFa	lysoPC a C18:2	Plasma metabolome	-0.727	5.27e-15	D
+Host Immune Response	TNFa	Tryptophan	Plasma metabolome	-0.73	6.67e-15	D
+Host Immune Response	TNFa	3-Hydroxykynurenine	Plasma metabolome	0.753	1.24e-16	D
+Host Immune Response	IL6	Homoarginine	Plasma metabolome	-0.519	1.16e-04	D
+Host Immune Response	IL6	Kynurenine	Plasma metabolome	0.702	1.70e-09	D
+Host Immune Response	IL6	lysoPC a C16:0	Plasma metabolome	-0.834	2.03e-15	D
+Host Immune Response	IL6	Tryptophan	Plasma metabolome	-0.596	1.56e-06	D
+Host Immune Response	IL6	5-Hydroxy-L-tryptophan	Plasma metabolome	-0.367	7.64e-03	D
+Host Immune Response	ISG	Homoarginine	Plasma metabolome	0.574	3.37e-02	D
+Plasma metabolome	Asparagine	OSCI_Score_Samp	Severity	-0.357	1.03e-03	Eubacterium
+Plasma metabolome	Asparagine	OSCI_Score_Samp	Severity	-0.357	1.03e-03	Faecalibacterium
+Plasma metabolome	Formylkynurenine 	OSCI_Score_Samp	Severity	-0.291	9.86e-03	Roseburia
+Plasma metabolome	PC aa C38:6	OSCI_Score_Samp	Severity	-0.292	9.25e-03	Collinsella
+Plasma metabolome	PC ae C40:2	OSCI_Score_Samp	Severity	-0.241	3.57e-02	InvSimp
+Plasma metabolome	PC ae C40:3	OSCI_Score_Samp	Severity	-0.282	1.23e-02	Faecalibacterium
+Plasma metabolome	PC ae C40:3	OSCI_Score_Samp	Severity	-0.282	1.23e-02	Oscillibacter
+Plasma metabolome	Tryptamine	OSCI_Score_Samp	Severity	-0.436	8.58e-05	Faecalibacterium
+Plasma metabolome	5-Hydroxy-L-tryptophan	OSCI_Score_Samp	Severity	-0.385	3.95e-04	Clostridiales
+Plasma metabolome	5-Hydroxy-L-tryptophan	OSCI_Score_Samp	Severity	-0.385	3.95e-04	Faecalibacterium
+Host Immune Response	IFNg	OSCI_Score_Samp	Severity	0.372	5.10e-04	Kynurenine
+Host Immune Response	IFNg	OSCI_Score_Samp	Severity	0.372	5.10e-04	lysoPC a C16:0
+Host Immune Response	IFNg	OSCI_Score_Samp	Severity	0.372	5.10e-04	lysoPC a C16:1
+Host Immune Response	IFNg	OSCI_Score_Samp	Severity	0.372	5.10e-04	lysoPC a C17:0
+Host Immune Response	IFNg	OSCI_Score_Samp	Severity	0.372	5.10e-04	lysoPC a C18:0
+Host Immune Response	IFNg	OSCI_Score_Samp	Severity	0.372	5.10e-04	lysoPC a C18:1
+Host Immune Response	IFNg	OSCI_Score_Samp	Severity	0.372	5.10e-04	lysoPC a C18:2
+Host Immune Response	IFNg	OSCI_Score_Samp	Severity	0.372	5.10e-04	PC ae C34:3
+Host Immune Response	IFNg	OSCI_Score_Samp	Severity	0.372	5.10e-04	PC ae C36:5
+Host Immune Response	IFNg	OSCI_Score_Samp	Severity	0.372	5.10e-04	Phenylalanine
+Host Immune Response	IFNg	OSCI_Score_Samp	Severity	0.372	5.10e-04	3-Hydroxykynurenine
+Host Immune Response	ncMono	OSCI_Score_Samp	Severity	0.559	9.25e-02	Homoarginine
+Host Immune Response	ncMono	OSCI_Score_Samp	Severity	0.559	9.25e-02	Indole-3-propionic acid
